@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://isrol.live/",
   author: "G Matta",
   desc: "A minimal blog for ISRO Launch updates and some other related news.",
-  title: "ISRO Live",
+  title: "ISRO.Live",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
